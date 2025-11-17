@@ -1,13 +1,12 @@
 import React from 'react'
-import AboutHero from '../components/about/AboutHero'
 
-function About() {
+function AboutPages() {
   return (
     <div>
-      <AboutHero/>
       
     </div>
   )
 }
 
-export default About
+export default AboutPages
+
